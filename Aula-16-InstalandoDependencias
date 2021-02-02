@@ -4,7 +4,7 @@ Comandos utilizados no vídeo: Aula 16 – Instalação das Dependências dos Se
 ls -lh
 
 #Editando o arquivo dependencias.sh
-sudo vim dependencias.sh
+sudo nano dependencias.sh
 
 #Executar antes o apt-get update
 sudo apt update
